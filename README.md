@@ -13,7 +13,7 @@ Welcome to **Movie Finder in React**, a sleek and interactive web application de
 
 ## 🚀 Live Demo
 
-Experience the app in action! Visit the live demo: [https://iam269.github.io/Movie-Finder-in-React/](https://iam269.github.io/Movie-Finder-in-React/)
+Experience the app in action! Visit the live demo: [https://itsiamdev.github.io/Movie-Finder-in-React/](https://itsiamdev.github.io/Movie-Finder-in-React/)
 
 ## 🛠️ Technologies Used
 
